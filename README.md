@@ -18,3 +18,6 @@ Chest X-ray images (anterior-posterior) were selected from retrospective cohorts
 ## Model Used
 We utilized the pre-trained VGG16 model to extract features from chest X-ray images. VGG16 is a deep convolutional neural network (CNN) that has been pre-trained on a large dataset of natural images. By using the VGG19 model, we were able to capture important visual features from chest X-ray images, contributing to the accuracy of our pneumonia detection system.
 
+## Acknowledgements
+* Link to the data: https://data.mendeley.com/datasets/rscbjbr9sj/2
+* License: CC BY 4.0
